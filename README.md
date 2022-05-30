@@ -1,4 +1,4 @@
-## 🔒 rocket.sect
+## 🔒 Rocket.sect
 <p align="center">
   <img alt="rocket.sect" src="https://raw.githubusercontent.com/dnpadua/rocket.sect/main/images/rocket.sect.png">
 </p>
